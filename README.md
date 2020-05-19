@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Heroku Flow Demo - SFDC
+=======
+# Heroku Flow Demo
+>>>>>>> f394f010bbc52388553cc822eafa472030695aa1
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
